@@ -1,6 +1,6 @@
 # FastAPI App With SQL
 
-We can add new User and Log In/n
+<h1>We can add new User and Log In</h1>
 We can add todo, delete and update
 Python SQLModel Library 
 
